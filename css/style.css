@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 10px;
+}
+
+html, body {
+  font-family: "Hind", sans-serif;
+}
+
+header nav.navbar {
+  background-color: transparent;
+}
+header .navbar-brand i {
+  color: #34A22C;
+}
+header .navbar-brand span {
+  color: #fff;
+  font-size: 3.4rem;
+}
+header #collapsibleNavbar .nav-item .nav-link {
+  font-size: 1.6rem;
+  color: #fff;
+  padding: 0 2rem;
+}
+
+/*# sourceMappingURL=style.css.map */
